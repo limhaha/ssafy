@@ -1,0 +1,17 @@
+package preview2;
+
+class Car {
+	String name;
+	int speed;
+	
+}
+
+public class CarTest{
+	public static void main(String[] args) {
+		CarTest Yellow = new Car();
+		
+		Yellow.name = "Ligtning Yellow";
+		Yellow.speed = 300;
+		System.out.println(Yellow.name + " : " + Yellow.speed);
+	}
+}

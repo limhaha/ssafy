@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class sam2 {
+
+	public static void main(String[] args) {
+		int num = 123;
+		String name = "ssafy";
+		
+		Scanner sc = new Scanner(System.in);
+//		String str = sc.nextLine();
+		System.out.println("****" + sc.next() + "*****");
+		System.out.println("****" + sc.next() + "*****");
+		System.out.println("****" + sc.next() + "*****");
+		
+//		System.out.println("num : " + num + "name : " + name);
+//		System.out.println();
+		
+//		System.out.print("num : " + num + "name : " + name);
+//		
+		
+	}
+
+}

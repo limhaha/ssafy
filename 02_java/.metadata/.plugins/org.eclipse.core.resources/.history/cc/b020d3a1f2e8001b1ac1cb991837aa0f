@@ -1,0 +1,12 @@
+package com.ssafy.day2.array;
+
+/**
+ * @since 2021. 7. 5.
+ */
+public class BasicProblem_04 {
+    public static void main(String[] args) {
+        String org = "SSAFY";
+        // TODO: SSAFY를 char []에 저장하고 출력하시오.
+        // END:
+    }
+}

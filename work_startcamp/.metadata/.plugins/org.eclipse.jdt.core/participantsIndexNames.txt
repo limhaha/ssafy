@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/ihalim/ssafy/work_startcamp/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/166727931.index
+/day3/src/main/java

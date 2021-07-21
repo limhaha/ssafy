@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<script type="text/javascript">
+		//var a = 10;
+		let a = 10;
+		console.log(a, 'ssafy');
+	
+	</script>
+	<body>
+	hello 테스트1
+	</body>
+</html>

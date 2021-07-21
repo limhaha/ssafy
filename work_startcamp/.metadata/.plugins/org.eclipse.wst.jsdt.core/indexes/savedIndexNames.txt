@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+/Users/ihalim/ssafy/work_startcamp/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1321737652.index
+969878818.index
+1974469264.index
+3944479578.index
+2668227584.index
+819400336.index
+3748729226.index
+495200124.index

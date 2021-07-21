@@ -1,0 +1,23 @@
+package preview2;
+
+class Car {
+	private int serialNumber;
+	protected String name;
+	int speed;
+	
+}
+
+public class CarTest {
+	public static void main(String[] args) {
+		Car Yellow = new Car();
+		
+		Yellow.name = "Ligtning Yellow";
+		Yellow.speed = 300;
+		System.out.println(Yellow.name + " : " + Yellow.speed);
+		
+		Car red = new Car();
+		red.name = "Sally Red";
+		red.speed = 200;
+		System.out.println(red.name + " : " + red.speed);
+	}
+}

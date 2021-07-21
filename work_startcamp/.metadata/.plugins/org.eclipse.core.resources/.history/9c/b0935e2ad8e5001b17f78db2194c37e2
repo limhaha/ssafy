@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insert title here</title>
+	</head>
+	<script type="text/javascript">
+		//var a = 10;
+		let a = 10;
+		console.log(a, 'ssafy');
+		function m1(){
+			console.log('m1 call');
+		}
+		m1();
+		
+	</script>
+	<body>
+	<script type="text/javascript">
+	//m1()
+	</script>
+	hello 테스트3
+	<button onclick="m1()">누르시오</button>
+	</body>
+</html>

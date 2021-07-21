@@ -1,0 +1,20 @@
+package com.ssafy.day2.s;
+
+public class StaticTest1 {
+	StaticTest1(){
+		Sam s;
+		s = new Sam();
+		
+		System.out.println("end");
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+class Sam{
+	Sam(){
+		System.out.println("생성자");
+	}
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+서버 전송 테스트<br>
+<form action='b.jsp'>
+	숫자1<input type="text" name ="aaa">
+	숫자2<input type="text" name ="bbb">
+	숫자1<input type="submit" value="전송">
+	사용가능한 언어<br>
+	<input type= "checkbox" name="java" name="lang">자바
+	<input type= "checkbox" name="c" name="lang">C언어
+	<input type= "checkbox" name="py" name="lang">파이
+	<input type= "checkbox" name="js" name="lang">자바스크립
+	
+
+</form>
+A 태그로 연결하기<br>
+<a href="b.jsp?aaa=7&bbb=5">7 + 5?</a>
+</body>
+</html>

@@ -1,0 +1,16 @@
+package com.ssafy.day2.s;
+
+public class StaticTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+//static : 변수, 메소드, 클래스(innerclass에서만) 세군데에서 쓸 수 있음 
+class Data{
+	static int a;  //static 멤버 변수 
+	int b;		   //nonstatic 멤버변수 -> instance 변수 
+	
+}

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	Form 태그 예제
+	<br>
+	<form action="서버 주소를 적는 공간상대 주소">
+		<input type="text" id="name"><br>
+		<input type="text" id="PW"><br>
+		
+		</form>
+</body>
+</html>

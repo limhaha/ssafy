@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>이하림 자기소개</title>
+<link rel="stylesheet" type="text/css" href="../css/sam.css">
+</head>
+<body>
+	<table border=50 >
+		<tr>
+
+			<td><img src="../imgs/white.jpg" alt="picture"></td>
+
+			<td align="center">
+			<img src="../imgs/ssafy.png" alt="picture"><br><br><br><br>
+			이름 : 이하림<br><br>
+			나이 : 29세<br><br>
+			하고싶은 말 : 서로서로 도와 모두 좋은 결과 있으면 좋겠습니다!<br><br>
+			github : <a href="https://github.com/limhaha">바로가기</a>
+			</td>
+			
+		</tr>
+	</table>
+</body>
+</html>

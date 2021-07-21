@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>이하림 자기소개</title>
+<style>
+body
+{
+ background-image : url(../imgs/big_sur.jpeg);
+ background-size : 1500px;}
+</style>
+<!-- <link rel="stylesheet" type="text/css" href="../css/sam.css"> -->
+</head>
+<body>
+	<table border="50">
+		<tr>
+			<td><a href="picture.html"> <img src="../imgs/white.jpg">
+			</a></td>
+			<td align="center"><a
+				href="https://edu.ssafy.com/edu/main/index.do"> <img
+					src="../imgs/ssafy.png">
+			</a> <br> <br> 이름 : 이하림<br> <br> 나이 : 29세<br> <br>
+				사는곳 : 서울 <br>
+			<br>하고싶은 말 : 서로서로 도와 모두 좋은 결과 있으면 좋겠습니다!<br> <br> <a
+				href="https://github.com/limhaha"> <img src="../imgs/github.png"
+					width="30" height="30"></a> <a
+				href="https://www.instagram.com/lim__ha/"><img
+					src="../imgs/instagram.png" width="30" height="30"></a></td>
+		</tr>
+	</table>
+</body>
+</html>

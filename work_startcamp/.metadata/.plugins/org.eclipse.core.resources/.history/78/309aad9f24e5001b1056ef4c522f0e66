@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>img 그리고 table</title>
+</head>
+<body>
+사진<br>
+<img src="../imgs/daum.png"><br>
+<img src="https://t1.daumcdn.net/daumtop_chanel/op/20200723055344399.png">
+</body>
+</html>

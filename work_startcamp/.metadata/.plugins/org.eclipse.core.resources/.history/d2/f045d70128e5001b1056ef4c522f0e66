@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	table 태그 예제3, 4
+	<br>
+	<table border=1>
+		<tr>
+			<td>adfasdf</td>
+			<td>sdfdsfw</td>
+			<td>sdfgsdfsd</td>
+			<td>sdfgsdfsd</td>
+		</tr>
+		<tr>
+			<td rowspan="2"></td>
+			<td colspan="3">합친거</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>sdfgsdfsd</td>
+		</tr>
+	</table>
+</body>
+</html>

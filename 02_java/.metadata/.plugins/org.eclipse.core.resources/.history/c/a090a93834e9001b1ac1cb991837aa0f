@@ -1,0 +1,23 @@
+package com.ssafy.day2.method;
+
+public class CallTest {
+
+	public static void main(String[] args) {
+		int n = 10;
+		System.out.println("n : " + n);
+
+	}
+	
+	void m1(int a) {
+		
+	}
+	
+	void m2(S s) {
+		
+	}
+}
+
+
+class S{
+	int a;
+}

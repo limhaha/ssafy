@@ -1,0 +1,13 @@
+package preview;
+
+public class Car {
+	String name;
+	int currentGear;
+	
+	
+	public static void main(String[] args) { 
+		// TODO Auto-generated method stub
+		 
+	}
+
+}

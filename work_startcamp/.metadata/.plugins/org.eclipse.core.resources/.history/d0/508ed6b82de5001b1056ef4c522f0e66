@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="../css/sam.css">
+</head>
+<body>
+css 예제<br>
+<p>hello ssafy</p>
+<p class='aaa'>hello ssafy</p>
+<p>hello ssafy</p>
+
+<h1 id="bbb" style="color: blue">타이틀 </h1>
+<h1 id="ccc">타이틀 </h1>
+<h1 class='aaa'>타이틀 </h1>
+<h1>타이틀 </h1>
+</body>
+</html>

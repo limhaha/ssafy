@@ -1,0 +1,30 @@
+package com.ssafy.day2.array;
+
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// ctrl shift + o
+		Scanner sc = new Scanner(System.in);
+		int r, c;
+		r = sc.nextInt();
+		c = sc.nextInt();
+		
+		char[][] map = new char[r][c];  //배열은 기본 데이터 타입으로 초기화 된다.
+		
+		for(char[] a : map) {
+			for(char b : a) {
+				System.out.println(a);
+			}
+		}
+//		for(int i=0; i<r; i++) {
+//			for(int j=0; j<c; j++) {
+//				map[i][j] = sc.next().charAt(0);
+//				
+//			}
+//		}
+
+	}
+
+}

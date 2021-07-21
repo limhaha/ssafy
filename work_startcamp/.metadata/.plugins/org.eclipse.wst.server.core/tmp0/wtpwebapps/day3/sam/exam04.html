@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<!-- 
+사이트
+http://mistic100.github.io/jQCloud/index.html
+
+data 시각화 (wordcloud) 
+-->
+<link rel="stylesheet" href="../lib/jqcloud.min.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="../lib/jqcloud.min.js"></script>
+<!-- data 시각화 (wordcloud) -->
+</head>
+<body>
+<div id="demo" style="width: 50%; height: 350px; border: 1px solid black"></div>
+<script>
+	// 글자에 링크 설정하기
+	var words = [
+	  {text: "Lorem", weight: 13, link: 'http://www.naver.com'},
+	  {text: "Ipsum", weight: 10.5},
+	  {text: "Dolor", weight: 9.4},
+	  {text: "Sit", weight: 8},
+	  {text: "Amet", weight: 6.2},
+	  {text: "Consectetur", weight: 5},
+	  {text: "Adipiscing", weight: 5},
+	];
+	// autoResize 의 기본 옵션은 false
+	$('#demo').jQCloud(words, {
+	  shape: 'elliptic',
+// 	  autoResize: true
+// 	  shape: 'rectangular'
+	});
+</script>
+</body>
+</html>
