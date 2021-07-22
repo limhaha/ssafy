@@ -6,6 +6,7 @@ public class SamePackageChildClass extends Parent {
 		this.protectVar = 10;
 		this.defaultVar = 10;
 		//The field Parent.privVar is not visible
-		//this.privVar = 10;
+		this.privVar = 10;
+		this.some = 10;
 	}
 }

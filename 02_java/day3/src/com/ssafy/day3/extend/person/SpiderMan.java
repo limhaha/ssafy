@@ -10,7 +10,7 @@ public class SpiderMan extends Person {
 	//has a 관계 
 	Spider spider = new Spider();
 	
-	void fireWeb() {
+	public void fireWeb() {
 		if (isSpider) {
 			//객체 활용 
 			spider.fireWeb();
@@ -21,7 +21,7 @@ public class SpiderMan extends Person {
 	
 	//재정의 
 	@Override // annotation
-	void jump() {
+	public void jump() {
 		if(isSpider) {
 			spider.jump();
 		}else {
