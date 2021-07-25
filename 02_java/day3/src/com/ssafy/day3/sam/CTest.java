@@ -1,4 +1,4 @@
-package com.ssafy.day3.sam;
+1package com.ssafy.day3.sam;
 
 public class CTest {
 
