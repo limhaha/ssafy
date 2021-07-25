@@ -5,13 +5,13 @@ package com.ssafy.day1;
  */
 public class BasicProblem_08 {
 
-    public static void main(String[] args) {
-    	// local 변수 - 사용전에 초기화 필요
+	public static void main(String[] args) {
+		// local 변수 - 사용전에 초기화 필요
 
-        int i = 0;
+		int i = 0;
 
-        System.out.println(i);
+		System.out.println(i);
 
-    }
+	}
 
 }

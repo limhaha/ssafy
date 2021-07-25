@@ -6,8 +6,9 @@ package com.ssafy.day1;
 public class BasicProblem_09 {
 
     public static void main(String[] args) {
-        {
-            int i = 0;
+        int i = 0;
+
+    	{
             System.out.println(i);
         }
         

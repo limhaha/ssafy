@@ -7,7 +7,6 @@ public class BasicProblem_10 {
    
     public static void main(String[] args) {
         final int i; // blank
-
         i = 10;
         System.out.println(i);
     }

@@ -14,6 +14,13 @@ public class BasicProblem_36 {
         int sum = 0;
         int count = 0;
         // TODO: 주사위를 계속 던지고 총 합이 100이면 중지, 그때의 총 합과 던진 회수는?
+        while(true) {
+        	sum += rand.nextInt(N) + 1;
+        	count++;
+        	if(sum>100) {
+        		break;
+        	}
+        }
         // END:
         System.out.printf("회수: %d, 총합: %d%n",count, sum);
     }
