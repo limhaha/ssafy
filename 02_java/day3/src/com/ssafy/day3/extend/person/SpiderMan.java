@@ -26,7 +26,7 @@ public class SpiderMan extends Person {
 			spider.jump();
 		}else {
 //			System.out.println("두 다리로 폴짝");
-			//조상의 코드 재사
+			//조상의 코드 재사용 
 			super.jump();
 		}
 	}
