@@ -1,0 +1,19 @@
+<< 수업 진행 >>
+com.ssafy.supplement.day0729.generic 패키지 
+: Generic 정리하기
+
+Test011.java - 제한된 타입
+Test012.java - 제한된 타입
+Test021.java - 제너릭 메서드
+Test022.java - 제너릭 메서드
+Test023.java - 제너릭 메서드
+Test024.java - 제너릭 메서드
+Test03.java - 와일드카드
+
+com.ssafy.supplement.day0729.io 패키지
+	- File 이해
+		Test01.java - Test03.java
+	- Stream 이해
+		Test04.java - Test12.java
+
+
