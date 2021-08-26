@@ -12,6 +12,6 @@ public class BasicProblem_15 {
             System.out.println( ( i-- ) % 2 );  // ( 1 )
             System.out.println( --i );          // ( 2 )
             System.out.println( i++ );          // ( 3 )
-            //System.out.println( ++( i - 2 ) );  // ( 4 )
+//            System.out.println( ++ ( i - 2 ) );  // ( 4 )
     }
 }
