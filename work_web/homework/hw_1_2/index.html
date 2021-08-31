@@ -1,10 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <style>
+      table,
+      th,
+      td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+    </style>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
   </head>
-  <body></body>
+
+  <body>
+    <table cellpadding="5">
+      <tr align="center">
+        <td>회원 아이디</td>
+        <td style="width: 200px"><textarea name="id" id="" cols="20" rows="1"></textarea></td>
+      </tr>
+      <tr align="center">
+        <td>비밀번호</td>
+        <td><textarea name="pwd" id="" cols="20" rows="1"></textarea></td>
+      </tr>
+      <tr align="center">
+        <td>비밀번호 확인</td>
+        <td><textarea name="pwd2" id="" cols="20" rows="1"></textarea></td>
+      </tr>
+      <tr align="center">
+        <td>이름</td>
+        <td><textarea name="name" id="" cols="20" rows="1"></textarea></td>
+      </tr>
+      <tr align="center">
+        <td>휴대폰 번호</td>
+        <td><textarea name="phone" id="" cols="20" rows="1"></textarea></td>
+      </tr>
+      <tr align="center">
+        <td>이메일</td>
+        <td><textarea name="email" id="" cols="20" rows="1"></textarea></td>
+      </tr>
+    </table>
+    <br />
+    <button>전송</button>
+  </body>
 </html>
